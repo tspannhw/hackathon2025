@@ -1,4 +1,4 @@
-# data
+# Hex and Snowflake July 2025  New York Hackathon - Data
 
 ![img](https://github.com/tspannhw/hackathon2025/blob/main/newyorkdata/hexathon1.jpg)
 
