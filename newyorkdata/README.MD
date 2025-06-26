@@ -1,9 +1,9 @@
 # data
 
+![img](https://github.com/tspannhw/hackathon2025/blob/main/newyorkdata/hexathon1.jpg)
 
 
-Data Feed Links
-
+#### Data Feed Links
 
 
 http://web.mta.info/status/serviceStatus.txt
@@ -46,7 +46,7 @@ https://www.mta.info/developers
 https://learn.hex.tech/docs/connect-to-data/data-connections/snowpark#:
 
 
-Articles
+### Articles
 
 https://medium.com/cloudera-inc/subways-and-transit-updates-in-real-time-30c104c359ef
 
@@ -64,7 +64,13 @@ https://medium.com/@tspann/automating-transit-gtfs-flows-7a5c4d3dafe8
 
 
 
-Databases / Functions
+### Databases / Functions
 
 call RETURN_MTA_NEARBY('40.3209','-74.4208');
+
+
+
+ ![img](https://github.com/tspannhw/hackathon2025/blob/main/newyorkdata/hexathon2.jpg)
+
+
 
