@@ -6,11 +6,7 @@
 #### Data Feed Links
 
 
-* http://web.mta.info/status/serviceStatus.txt
-* http://web.mta.info/developers/data/nyct/turnstile/turnstile_230506.txt
-* http://web.mta.info/status/ServiceStatusSubway.xml
-* http://web.mta.info/status/ServiceStatusBus.xml
-* http://web.mta.info/developers/data/nyct/plannedwork.xml
+* https://www.mta.info/developers
 * https://data.ny.gov/resource/i9wp-a4ja.json
 * https://data.cityofnewyork.us/resource/i4gi-tjb9.json
 * Bicycle Count https://data.cityofnewyork.us/resource/uczf-rk3c.json
@@ -26,6 +22,16 @@
 * https://data.cityofnewyork.us/resource/i4gi-tjb9.json?$limit=1000&$offset=${i}&$order=data_as_of+DESC
 * http://api.prod.obanyc.com/api/siri/vehicle-monitoring.json?key=GETAKEY&version=2
 * http://web.mta.info/developers/data/nyct/subway/StationComplexes.csv
+* https://rrgtfsfeeds.s3.amazonaws.com/gtfs_subway.zip
+* https://rrgtfsfeeds.s3.amazonaws.com/gtfs_supplemented.zip
+* https://rrgtfsfeeds.s3.amazonaws.com/gtfslirr.zip
+* https://rrgtfsfeeds.s3.amazonaws.com/gtfsmnr.zip
+* https://rrgtfsfeeds.s3.amazonaws.com/gtfs_m.zip
+* https://rrgtfsfeeds.s3.amazonaws.com/gtfs_busco.zip
+* https://bt.mta.info/wiki/Developers/Index
+* https://data.ny.gov/resource/f462-ka72.json
+
+
 
 
 
