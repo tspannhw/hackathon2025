@@ -1,0 +1,20 @@
+station,borough,trainno,equipment,equipmenttype,serving,ADA,outagedate,estimatedreturntoservice,reason,isupcomingoutage,ismaintenanceoutage
+Lorimer St,,G/L,EL776,EL,NW corner of Lorimer St and Metropolitan Ave providing access to the mezzanine control area.,Y,06/26/2025 10:00:00 PM,06/27/2025 06:00:00 AM,Maintenance,Y,N
+Lorimer St,,G/L,EL777,EL,Mezzanine to Manhattan-bound platform.,Y,06/26/2025 10:00:00 PM,06/27/2025 06:00:00 AM,Maintenance,Y,N
+W 4 St-Wash Sq,,A/C/E/B/D/F/M,EL334,EL,downtown A/C/E platform to transfer mezzanine and downtown B/D/F/M platform,Y,06/26/2025 10:00:00 PM,06/27/2025 06:00:00 AM,Inspection,Y,N
+34 St-Penn Station,,A/C/E,EL227,EL,Penn Station concourse to A platform for service in both directions,Y,06/26/2025 10:00:00 PM,06/27/2025 06:00:00 AM,Maintenance,Y,N
+Lorimer St,,G/L,EL778,EL,Mezzanine to Canarsie-bound platform.,Y,06/26/2025 10:00:00 PM,06/27/2025 06:00:00 AM,Maintenance,Y,N
+175 St,,A,EL123,EL,177 St & Fort Washington Ave (NE corner) to mezzanine for service in both directions.,Y,06/26/2025 10:00:00 PM,06/27/2025 06:00:00 AM,Inspection,Y,N
+175 St,,A,EL124,EL,Mezzanine to platform for service in both directions.,Y,06/26/2025 10:00:00 PM,06/27/2025 06:00:00 AM,Inspection,Y,N
+34 St-Penn Station,,A/C/E,EL228,EL,Penn Station concourse to downtown C/E platform,Y,06/26/2025 10:00:00 PM,06/27/2025 06:00:00 AM,Maintenance,Y,N
+14 St-Union Sq,,L/N/Q/R/W/4/5/6,EL219,EL,mezzanine to uptown N/Q/R/W platform,Y,06/26/2025 10:00:00 PM,06/27/2025 06:00:00 AM,Inspection,Y,N
+3 Av-149 St,,2/5,EL130,EL,Melrose Ave & 149 St (NW corner) to Manhattan-bound platform,Y,06/27/2025 10:00:00 PM,06/28/2025 06:00:00 AM,Maintenance,Y,N
+Marcy Av,,M/J/Z,EL392,EL,Marcy Ave & Broadway (SW corner) to Jamaica Center bound-platform,Y,06/27/2025 10:00:00 PM,06/28/2025 06:00:00 AM,Maintenance,Y,N
+Marcy Av,,M/J/Z,EL391,EL,Marcy Ave & Broadway (NW corner) to Manhattan-bound platform,Y,06/27/2025 10:00:00 PM,06/28/2025 06:00:00 AM,Maintenance,Y,N
+3 Av-149 St,,2/5,EL129,EL,3rd Ave & 149 St (SW corner) to Bronx-bound platform,Y,06/27/2025 10:00:00 PM,06/28/2025 06:00:00 AM,Maintenance,Y,N
+W 4 St-Wash Sq,,A/C/E/B/D/F/M,EL334,EL,downtown A/C/E platform to transfer mezzanine and downtown B/D/F/M platform,Y,06/27/2025 10:00:00 PM,06/28/2025 06:00:00 AM,Maintenance,Y,N
+14 St,,A/C/E/L,EL221,EL,8th Ave & 14 St (NW corner) to mezzanine for A/C/E/L service in both directions,Y,06/27/2025 10:00:00 PM,06/28/2025 06:00:00 AM,Maintenance,Y,N
+14 St,,A/C/E/L,EL222,EL,mezzanine to downtown A/C/E platform,Y,06/27/2025 10:00:00 PM,06/28/2025 06:00:00 AM,Maintenance,Y,N
+125 St,,A/C/B/D,EL144,EL,mezzanine to uptown platform,Y,06/27/2025 10:00:00 PM,12/31/2025 11:59:00 PM,Capital Replacement,Y,N
+14 St-Union Sq,,L/N/Q/R/W/4/5/6,EL219,EL,mezzanine to uptown N/Q/R/W platform,Y,06/27/2025 10:00:00 PM,06/28/2025 06:00:00 AM,Maintenance,Y,N
+Lexington Av/53 St,,E/M/6,EL245,EL,mezzanine to E/M platform for service in both directions,Y,07/01/2025 10:00:00 PM,01/31/2026 11:00:00 PM,Capital Replacement,Y,N
